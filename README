@@ -68,6 +68,8 @@ Here are a few frontends to libexif:
              (http://ecomstation.ru/thirdeye).
  - digikam:  digital photo management application for KDE
              (https://www.digikam.org/)
+ - exifi:    In-browser web app for viewing and editing EXIF data
+             (https://exifi.io)
 
 If you would like to migrate your program to use libexif or add EXIF support
 to it, don't hesitate to contact the authors.
@@ -80,6 +82,8 @@ The following libraries use or have been inspired by libexif:
  - libexif-gtk: library of widgets to help display EXIF tags in GTK
    programs (https://github.com/libexif/libexif-gtk).
  - pel: PHP-Code (https://github.com/lsolesen/pel/)
+ - libexif-wasm: JavaScript library with WebAssembly bindings
+   (https://www.npmjs.com/package/libexif-wasm)
 
 
 BUILDING
